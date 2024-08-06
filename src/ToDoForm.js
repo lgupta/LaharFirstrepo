@@ -1,5 +1,9 @@
 import React, { useState } from 'react';
 
+/*
+* A form for adding new tasks..
+*/
+
 const ToDoForm = ({ addTask }) => {
   const [task, setTask] = useState('');
 

@@ -1,3 +1,8 @@
+Technology stack
+1. using vscode.dev
+2. Github codespaces
+3. created github repository - new branch - and then added files
+
 Certainly! Here are ten popular React project ideas that are great for coding practice and showcasing your skills:
 
 1. To-Do List App

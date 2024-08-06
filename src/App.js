@@ -2,6 +2,10 @@ import React, { useState } from 'react';
 import ToDoForm from './ToDoForm';
 import ToDoList from './ToDoList';
 
+/*
+* App Component: The main component that holds the state and methods.
+*/
+
 const App = () => {
   const [tasks, setTasks] = useState([]);
 

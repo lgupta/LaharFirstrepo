@@ -1,6 +1,10 @@
 import React from 'react';
 import ToDoItem from './ToDoItem';
 
+/*
+* A list that displays the tasks.
+*/
+
 const ToDoList = ({ tasks, toggleComplete, deleteTask }) => {
   return (
     <ul>
